@@ -1,0 +1,14 @@
+drop view wypozyczone_gry;
+drop view historia_wypozyczen;
+drop view niedostepne_gry;
+drop view dostepne_gry_wypozyczenie;
+drop view dostepne_gry_sprzedaz;
+drop view dostepne_gry;
+drop table wypozyczalnia;
+drop table zakup;
+drop table klient;
+drop table gra_planszowa;
+drop table gatunek;
+drop table autor;
+drop table wersja_jezykowa;
+drop table adres_wysylki;
